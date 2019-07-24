@@ -19,7 +19,7 @@ DB_BACKUP_PATH='/srv/backup/nextcloud/mysql'
 MYSQL_HOST='localhost'
 MYSQL_PORT='3306'
 MYSQL_USER='nc_user'
-MYSQL_PASSWORD='sucesso#2@12'
+MYSQL_PASSWORD='pass'
 DATABASE_NAME='nextclouddb'
 BACKUP_RETAIN_DAYS=30   ## Number of days to keep local backup copy
  
